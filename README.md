@@ -29,7 +29,16 @@ I am a passionate **Software Developer** and **Cybersecurity Enthusiast** with a
 Her 
 
 ## ⚡ Fun fact  
-I love solving **CTF challenges** 🕵️‍♂️ and experimenting with **new security tools**. Also, I enjoy contributing to **open-source projects** and learning about **emerging tech trends**.  
+I love solving **CTF challenges** 🕵️‍♂️ and experimenting with **new security tools**. Also, I enjoy contributing to **open-source projects** and learning about **emerging tech trends**.
+
+## 🏆 Certifications & Achievements
+- 🏅 **Finalist | TchCodeQuest #13 2024** -Software development and methodology- Ranked 20 out of 3413 
+- 🎓 **Certified in Competitive Programming** -CodeQuezt Contest #15 by NaukriCampus!
+- 📜 **earned my Security Intelligence Certificate from Chandigarh University! 🎉
+- 📜 **Certificate of Participation in Capture The Flag of Gl!tch Tech Fest from Unstop ! By Gautam Buddha University
+
+📂 [View All Certificates](https://drive.google.com/file/d/1xtCbRzZ3QPUP8UF0t02e-jQm7BTErWIo/view?usp=drive_link)
+
 
 <!---
 Thakurtanu21/Thakurtanu21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
